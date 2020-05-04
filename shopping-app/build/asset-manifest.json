@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b5fc0be.chunk.css",
+    "main.js": "/static/js/main.ee2b08be.chunk.js",
+    "main.js.map": "/static/js/main.ee2b08be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f1ae0d5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f1ae0d5f.js.map",
+    "static/js/2.931eb27d.chunk.js": "/static/js/2.931eb27d.chunk.js",
+    "static/js/2.931eb27d.chunk.js.map": "/static/js/2.931eb27d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.96b40608640e487f1ce6b877e06c46ab.js": "/precache-manifest.96b40608640e487f1ce6b877e06c46ab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7b5fc0be.chunk.css.map": "/static/css/main.7b5fc0be.chunk.css.map",
+    "static/js/2.931eb27d.chunk.js.LICENSE.txt": "/static/js/2.931eb27d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/backgroundImage.30d3bed7.jpg",
+    "static/media/brushSet1.png": "/static/media/brushSet1.6cf682d3.png",
+    "static/media/cartImage.png": "/static/media/cartImage.ff81cc0e.png",
+    "static/media/compactPowder.png": "/static/media/compactPowder.c4053038.png",
+    "static/media/curologyCleanser.png": "/static/media/curologyCleanser.e0f529f7.png",
+    "static/media/default.png": "/static/media/default.49df0bab.png",
+    "static/media/drunkElephantOil.png": "/static/media/drunkElephantOil.4fa1835e.png",
+    "static/media/eyeShadow.png": "/static/media/eyeShadow.9badf035.png",
+    "static/media/eyeShadow2.png": "/static/media/eyeShadow2.c15bf96c.png",
+    "static/media/eyeShadow3.png": "/static/media/eyeShadow3.2a1cafdf.png",
+    "static/media/eyeShadow4.png": "/static/media/eyeShadow4.48a589de.png",
+    "static/media/kerastase.png": "/static/media/kerastase.261df89d.png",
+    "static/media/lipstick.png": "/static/media/lipstick.c20cf5b2.png",
+    "static/media/logo.png": "/static/media/logo.a398d222.png",
+    "static/media/makeUpForeverFoundation.png": "/static/media/makeUpForeverFoundation.9909fff4.png",
+    "static/media/mascara.png": "/static/media/mascara.544e44c0.png",
+    "static/media/myAccountIcon.png": "/static/media/myAccountIcon.08991609.png",
+    "static/media/settingPowder.png": "/static/media/settingPowder.7c0c99fb.png",
+    "static/media/tatcha.png": "/static/media/tatcha.6bfcf110.png",
+    "static/media/yslLipstick.png": "/static/media/yslLipstick.d83f5aac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1ae0d5f.js",
+    "static/js/2.931eb27d.chunk.js",
+    "static/css/main.7b5fc0be.chunk.css",
+    "static/js/main.ee2b08be.chunk.js"
+  ]
+}
